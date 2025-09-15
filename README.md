@@ -1,3 +1,32 @@
+# **💻Resposta do sistema**
+
+No console:
+```
+    --- INICIANDO SIMULADOR DE ATENDIMENTO ---
+    Parâmetros: Média de 5 min/cliente, Desvio Padrão de 0.5 min, 100 clientes.
+    -------------------------------------------------
+    Cenário com 1 caixa(s):
+    -> Tempo médio para atender todos os clientes: 500.20 min
+    -> Desvio-padrão dos tempos: 5.01 min
+
+    Cenário com 2 caixa(s):
+    -> Tempo médio para atender todos os clientes: 250.10 min
+    -> Desvio-padrão dos tempos: 3.55 min
+
+    Cenário com 3 caixa(s):
+    -> Tempo médio para atender todos os clientes: 166.73 min
+    -> Desvio-padrão dos tempos: 2.87 min
+
+    Cenário com 4 caixa(s):
+    -> Tempo médio para atender todos os clientes: 125.05 min
+    -> Desvio-padrão dos tempos: 2.50 min
+
+    Cenário com 5 caixa(s):
+    -> Tempo médio para atender todos os clientes: 100.04 min
+    -> Desvio-padrão dos tempos: 2.24 min
+```
+
+
 # **📊 Resultados e Análise**
 
 A simulação foi executada para cenários com 1 a 5 caixas. Os parâmetros base foram:
